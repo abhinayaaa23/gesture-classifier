@@ -1,5 +1,7 @@
 # Hand Gesture Classification using CNN
 
+Author: Abhinaya Arunkumar
+
 ## What I Built
 
 I built a hand gesture classification model using CNN. The model classifies three different hand gestures:
@@ -74,5 +76,3 @@ I would also like to look into why data augmentation did not improve the validat
 Another improvement would be experimenting with additional hyperparameters such as batch size and different optimizers. In this project I mainly focused on dropout and learning rate, but many other factors can influence training behaviour.
 
 Finally, I would like to explore more advanced CNN architectures and compare their performance with the simple CNN used in this project.
-
-### Author: Abhinaya Arunkumar
